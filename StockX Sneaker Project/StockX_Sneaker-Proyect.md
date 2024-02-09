@@ -1,5 +1,4 @@
-# EN 
-# StockX Sneaker Project
+# EN - StockX Sneaker Project
 
 ## Overview
 This project aims to analyze sneaker sales data obtained from the 2019 StockX Data Contest. The dataset includes sales information for approximately 10,000 pairs of shoes from 50 different models, including popular brands such as Nike x Off-White and Yeezy. The analysis seeks to answer several key questions related to the popularity of shoes, profit margins, and factors influencing sales prices.
@@ -29,8 +28,7 @@ The dataset provided by StockX consists of a single file containing sales data. 
 ## Conclusion
 The analysis of the StockX sneaker sales data provides valuable insights into consumer preferences, market trends, and factors affecting profitability in the resale sneaker market. By understanding these dynamics, sellers can make more informed decisions about pricing, timing, and inventory management strategies.
 
-# ES
-# Proyecto de Análisis de Datos de Zapatillas de StockX
+# ES - Proyecto de Análisis de Datos de Zapatillas de StockX
 
 ## Resumen
 Este proyecto tiene como objetivo analizar los datos de ventas de zapatillas obtenidos del Concurso de Datos de StockX de 2019. El conjunto de datos incluye información de ventas para aproximadamente 10,000 pares de zapatillas de 50 modelos diferentes, incluidas marcas populares como Nike x Off-White y Yeezy. El análisis busca responder varias preguntas clave relacionadas con la popularidad de las zapatillas, los márgenes de beneficio y los factores que influyen en los precios de venta.
